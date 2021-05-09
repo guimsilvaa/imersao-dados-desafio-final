@@ -1,6 +1,7 @@
 # Modelos de machine learning para predizer o potencial de fármacos para atuar no sistema nervoso central 
 Projeto apresentado como desafio final do curso Imersão de Dados - 3ª Edição - ALURA, sob a temática Data Science & Drug Discovery 
 <br />
+<br />
 ![imagem mostrando no canto superior direito a opção Fork](https://github.com/guimsilvaa/imersao-dados-desafio-final/blob/main/Dados/ga.jpg?raw=true)
 
 # Background do projeto #
