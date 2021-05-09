@@ -1,7 +1,7 @@
 # Modelos de machine learning para predizer o potencial de fármacos para atuar no sistema nervoso central 
 Projeto apresentado como desafio final do curso Imersão de Dados - 3ª Edição - ALURA, sob a temática Data Science & Drug Discovery 
 <br />
-![imagem mostrando no canto superior direito a opção Fork](https://github.com/guimsilvaa/imersao-dados-desafio-final/blob/main/Dados/graphicabstract.png?raw=true)
+![imagem mostrando no canto superior direito a opção Fork](https://github.com/guimsilvaa/imersao-dados-desafio-final/blob/main/Dados/ga.jpg?raw=true)
 
 # Background do projeto #
 O planejamento racional e descoberta de fármacos (do inglês "drug design & discovery") é um processo caro e demorado, levando de 10-20 anos e custando bilhões de dólares [1](https://link.springer.com/article/10.1007/s00210-016-1216-8). Nas etapas iniciais deste processo é imprescíndivel fazer o uso de técnicas computacionais que permitam guiar e predizer as propriedades desejáveis para um candidato a fármaco (composto químico) sob estudo [2](https://link.springer.com/article/10.1007/s10822-016-9993-1). 
